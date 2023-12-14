@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=RendiAigoBrandon&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Jobsheet 1 💡
+## Jobsheet 1 💡
 Dalam pembelajaran mengenai tujuan pembelajaran, pokok materi, dan uraian materi yang telah disampaikan, saya dapat menguraikan beberapa poin utama. Pertama, tujuan pembelajaran mencakup kemampuan memahami, menjelaskan, dan mengaplikasikan algoritma melalui pemrograman, memahami cara instalasi, fungsi, dan penggunaan Integrated Development Environment (IDE), serta kemampuan membuat, mengkompilasi, dan menganalisis kesalahan dalam pemrograman menggunakan IDE.
 
 Kedua, materi pembelajaran mencakup pengantar mengenai algoritma, pemrograman, dan bahasa C. Algoritma dijelaskan sebagai urutan langkah-langkah sistematis untuk menyelesaikan masalah dengan enam ciri penting, termasuk keterbatasan, definisi langkah-langkah, input dan output, efektivitas, dan keterstrukturan. Pemrograman didefinisikan sebagai tindakan menulis, menguji, memperbaiki, dan memelihara kode, dengan perbedaan antara coding dan programming. Bahasa pemrograman dijelaskan sebagai instruksi standar untuk meminta komputer menjalankan fungsi tertentu, dan Bahasa C diperkenalkan sebagai bahasa pemrograman general-purpose yang mendukung pemrograman terstruktur.
