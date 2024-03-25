@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm a student at Padang State University<br>💻I'm currently studying programming languages C<br>🎮My hobby is playing game<br>💬DM me in INSTAGRAM if you want to know more about me
+🎓I'm a student at Padang State University<br>💻I'm currently studying programming languages C, Phyton<br>🎮My hobby is playing game<br>💬DM me in INSTAGRAM if you want to know more about me
 
 
 ## 🌐 Socials:
