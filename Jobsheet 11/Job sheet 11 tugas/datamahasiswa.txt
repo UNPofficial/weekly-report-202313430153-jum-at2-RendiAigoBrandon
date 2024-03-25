@@ -1,6 +1,0 @@
-Masukan data mahasiswa ke-1
-Nama: rendi aigo
-NIM: 23343082
-Jurusan: teknik
-Program Studi: informatika
-
